@@ -1,0 +1,15 @@
+C:\Cursos\CursoC#\TextEditor\bin\Debug\net6.0\TextEditor.exe
+C:\Cursos\CursoC#\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\Cursos\CursoC#\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+C:\Cursos\CursoC#\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\Cursos\CursoC#\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+C:\Cursos\CursoC#\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
